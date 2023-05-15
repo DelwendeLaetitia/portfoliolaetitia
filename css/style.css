@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../image/classe-auf.jpg);
+    background-size: cover;
+}
+ .im{
+    float: right;
+}
+h1{
+ text-align: center; 
+ color: white;  
+}
+p{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+
+.card{
+    width: 100%; height: auto;
+    border: solid;
+    border-radius: 2px;
+    border-color: orange;
+}
+
+.card img{
+    width: 100%; height: 100%;
+}
+.row{
+    margin-top: 10px;
+}
+.nav-link{
+    color: white;
+}
+.trait{
+    margin: auto;
+}

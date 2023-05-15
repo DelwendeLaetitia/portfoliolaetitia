@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../image/classe-auf.jpg);
+    
+    background-size: cover;
+}
+
+.im{
+    margin-left: 1300px;
+    display: flex;
+}
+.link-nav{
+    margin-left: 50px;
+    color: white;
+}
+
+.droite{background-color: orangered;
+width: 2px;
+height: 650px;
+position: absolute;
+margin-left:15% ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+.collapse{
+    color: white;
+}
+
+
+footer{
+text-align: center;
+}
+
+.card{background-color: transparent;}
+
+
+
+.nav-link{
+    color: white;
+}
+.droite span{
+    border-radius: 50px;
+    background-color: orange;
+    display: block;
+    position: relative;
+    top: 80px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+}
+.point{
+    background-color: green;
+    margin-top: 240px;
+
+}

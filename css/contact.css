@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../image/classe-auf.jpg);
+    background-size: cover;
+}
+.im{
+    margin-left: 1300px;
+}
+h1{
+ text-align: center; 
+ color: white;  
+}
+p{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+.trait{
+    margin: auto;
+}
+.row{
+   margin-top: 500px;
+   margin: 250px;
+   margin-right: 80px;
+}
+
